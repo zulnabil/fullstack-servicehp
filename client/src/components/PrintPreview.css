@@ -1,0 +1,5 @@
+@media print and (width: 5.8cm) and (height: 10cm) {
+  @page {
+     margin: 0cm;
+  }
+}
